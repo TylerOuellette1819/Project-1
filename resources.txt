@@ -1,0 +1,6 @@
+101|Study Room A|Study Room|1
+102|Study Room B|Study Room|1
+103|Laptop 1|Laptop|1
+104|Laptop 2|Laptop|1
+105|Calculator 1|Calculator|1
+106|Computer Lab 1|Computer Lab|1
